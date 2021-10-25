@@ -1,0 +1,15 @@
+.card-text{
+    color: chartreuse;
+    font-weight: 500
+}
+.card-title{
+    color: brown;
+    font-weight: 800;
+}
+
+
+
+
+body{
+    background-color: bisque;
+}
